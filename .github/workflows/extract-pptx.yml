@@ -29,11 +29,13 @@ jobs:
       - name: Extract PPTX text to Markdown
         run: python scripts/extract_pptx_text.py
 
-      - name: List docs folder (debug)
-        run: ls -l docs || echo "docs folder not found"
+      - name: List docs (debug)
+        run: ls -R docs || echo "docs missing"
 
-      - name: Commit Markdown output
+      - name: Commit Markdown + media
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: extract PPTX text to docs/*.md"
-          file_pattern: docs/*.md
+          commit_message: "chore: extract PPTX text + media"
+          file_pattern: |
+            docs/*.md
+            docs/media/*
