@@ -1,23 +1,16 @@
 # meet_07 - JST - INF - ALL.pptx
 
-**Media diekstrak:** 0 file
 ## Slide 1
 - Jaringan Syaraf Tiruan ~ ~ Meet 07 ~ ~Program Studi InformatikaUniversitas Teknologi Yogyakarta
 - Dr. Donny Avianto, S.T., M.T.
 
-**Ringkasan shape non-teks:** tidak ada shape non-teks
-
 ## Slide 2
 - Deep Learning
-
-**Ringkasan shape non-teks:** tidak ada shape non-teks
 
 ## Slide 3
 - Pertanyaan #1
 - Apa sebenarnya deep learning itu?
 - Deep learning berarti suatu neural network yang memiliki beberapa layer (layers of nodes) antara input dan output
-
-**Ringkasan shape non-teks:** tidak ada shape non-teks
 
 ## Slide 4
 - Pertanyaan #2
@@ -25,15 +18,11 @@
 - Kita sudah memiliki cara melatih yang baik untuk NN dengan 1 hidden layer
 - Namun, cara ini tidak cukup baik untuk melatih NN dengan hidden layer yang banyak. Yang baru adalah Algoritma melatih NN -nya
 
-**Ringkasan shape non-teks:** tidak ada shape non-teks
-
 ## Slide 5
 - Pertanyaan #3
 - Mengapa fungsi aktivasi ReLu lebih sering digunakan dibandingkan Sigmoid di dalam penggunaan Deep Learning?
 - Apa perbedaan fungsi aktivasi ReLu dan LeakyReLu?
 - Sigmoid sangat berpotensi memicu masalah vanishing gradient selama proses pelatihan, sedangkan ReLu tidak
-
-**Ringkasan shape non-teks:** tidak ada shape non-teks
 
 ## Slide 6
 _(tidak ada teks terdeteksi di slide ini)_
@@ -91,8 +80,6 @@ _Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 - Apa perbedaan fungsi aktivasi ReLu dan LeakyReLu?
 - LeakyReLu diciptakan untuk meminimalkan vanishing gradient pada saat input bernilai negative
 
-**Ringkasan shape non-teks:** tidak ada shape non-teks
-
 ## Slide 12
 _(tidak ada teks terdeteksi di slide ini)_
 
@@ -128,21 +115,15 @@ _Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 - Apa yang dimaksud dengan Vanishing Gradient Problem? Bagaimana cara untuk meminimalkan efek Vanishing Gradient pada deep learning
 - Memilih fungsi aktivasi yang meminimalkan Vanishing Gradient seperti ReLu atau LeakyReLu
 
-**Ringkasan shape non-teks:** tidak ada shape non-teks
-
 ## Slide 16
 - Pertanyaan #4
 - Apa yang dimaksud dengan Vanishing Gradient Problem? Bagaimana cara untuk meminimalkan efek Vanishing Gradient pada deep learning
 - Tiru googleNet yang menghitung loss tidak hanya diakhir NN tetapi juga di tengah-tengah NN
 
-**Ringkasan shape non-teks:** tidak ada shape non-teks
-
 ## Slide 17
 - Pertanyaan #4
 - Apa yang dimaksud dengan Vanishing Gradient Problem? Bagaimana cara untuk meminimalkan efek Vanishing Gradient pada deep learning
 - Skip Connection seperti pada Residual Network (ResNet)
-
-**Ringkasan shape non-teks:** tidak ada shape non-teks
 
 ## Slide 18
 _(tidak ada teks terdeteksi di slide ini)_
@@ -157,114 +138,78 @@ _Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 ## Slide 19
 - ConvolutionalNeural Network(CNN)
 
-**Ringkasan shape non-teks:** tidak ada shape non-teks
-
 ## Slide 20
 - CNN
 - Salah satu jenis arsitektur deep learning yang sering digunakan untuk mengolah gambar / video
 - Memiliki ciri khusus yaitu adanya lapisan konvolusi (Convolution Layer)
 
-**Ringkasan shape non-teks:** tidak ada shape non-teks
-
 ## Slide 21
 - CNN
 - Sebelumnya kita mengenal istilah fully connected layer  diterapkan pada hidden layer MLP
 
-**Ringkasan shape non-teks:** other:1
-
 ## Slide 22
 - CNN
 - Sebelumnya kita mengenal istilah fully connected layer  diterapkan pada hidden layer MLP
-
-**Ringkasan shape non-teks:** other:1
 
 ## Slide 23
 - CNN
 - Untuk mempersimple gambar,
 - Hubungan input dengan node pada layer di depannya digambar seperti ini
 
-**Ringkasan shape non-teks:** other:1
-
 ## Slide 24
 - CNN
 - Convolution Layer
-
-**Ringkasan shape non-teks:** other:1
 
 ## Slide 25
 - CNN
 - Convolution Layer
 
-**Ringkasan shape non-teks:** other:1
-
 ## Slide 26
 - CNN
 - Convolution Layer
-
-**Ringkasan shape non-teks:** other:1
 
 ## Slide 27
 - CNN
 - Convolution Layer
 
-**Ringkasan shape non-teks:** other:1
-
 ## Slide 28
 - CNN
 - Convolution Layer
-
-**Ringkasan shape non-teks:** other:1
 
 ## Slide 29
 - CNN
 - Convolution Layer
 
-**Ringkasan shape non-teks:** other:1
-
 ## Slide 30
 - CNN
 - Convolution Layer
 
-**Ringkasan shape non-teks:** other:1
-
 ## Slide 31
 - CNN
 - Convolution Layer
-
-**Ringkasan shape non-teks:** other:1
 
 ## Slide 32
 - CNN
 - Convolution Layer
 - Juga bisa memiliki 2 output yang berbeda
 
-**Ringkasan shape non-teks:** other:1
-
 ## Slide 33
 - CNN
 - Convolution Layer
 - Juga bisa memiliki 2 output yang berbeda
-
-**Ringkasan shape non-teks:** other:1
 
 ## Slide 34
 - Apa saja yang perlu di-setPada Convolution Layer
 - Kernel Size
 - Bertugas mengatur seberapa lokal kah convolution layer yang kita buat
 
-**Ringkasan shape non-teks:** tidak ada shape non-teks
-
 ## Slide 35
 - CNN
 - Bisa 1x1; 3x3; 5x5; atau lainnya
 
-**Ringkasan shape non-teks:** other:1
-
 ## Slide 36
 - CNN
 - Bagaimana jika ukuran kernel = input ??
-
-**Ringkasan shape non-teks:** other:1
 
 ## Slide 37
 - Apa saja yang perlu di-setPada Convolution Layer
@@ -273,47 +218,29 @@ _Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 - Semakin banyak gesernya, makin banyak informasi dari input yang terlewatkan
 - Dapat digunakan untuk mengurangi beban komputasi
 
-**Ringkasan shape non-teks:** tidak ada shape non-teks
-
 ## Slide 38
 - Apa saja yang perlu di-setPada Convolution Layer
-
-**Ringkasan shape non-teks:** other:1
 
 ## Slide 39
 - Apa saja yang perlu di-setPada Convolution Layer
 
-**Ringkasan shape non-teks:** other:1
-
 ## Slide 40
 - Apa saja yang perlu di-setPada Convolution Layer
-
-**Ringkasan shape non-teks:** other:1
 
 ## Slide 41
 - Apa saja yang perlu di-setPada Convolution Layer
 
-**Ringkasan shape non-teks:** other:1
-
 ## Slide 42
 - Apa saja yang perlu di-setPada Convolution Layer
-
-**Ringkasan shape non-teks:** other:1
 
 ## Slide 43
 - Apa saja yang perlu di-setPada Convolution Layer
 
-**Ringkasan shape non-teks:** other:1
-
 ## Slide 44
 - Apa saja yang perlu di-setPada Convolution Layer
 
-**Ringkasan shape non-teks:** other:1
-
 ## Slide 45
 - Apa saja yang perlu di-setPada Convolution Layer
-
-**Ringkasan shape non-teks:** other:1
 
 ## Slide 46
 - Apa saja yang perlu di-setPada Convolution Layer
@@ -321,21 +248,15 @@ _Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 - Kernel = … X …
 - Stride = …
 
-**Ringkasan shape non-teks:** other:1
-
 ## Slide 47
 - Apa saja yang perlu di-setPada Convolution Layer
 - Padding
 - Jika ingin ukuran feature hasil konvolusi tetap sama dengan ukuran inputnya
 
-**Ringkasan shape non-teks:** tidak ada shape non-teks
-
 ## Slide 48
 - Apa saja yang perlu di-setPada Convolution Layer
 - Ukuran dan nilai padding dapat
 - Ditentukan sendiri
-
-**Ringkasan shape non-teks:** other:1
 
 ## Slide 49
 - Pertanyaan #5
@@ -344,27 +265,17 @@ _Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 - Pooling layer berfungsi untuk mengecilkan ukuran / dimensi spasial
 - Tujuannya agar beban komputasi dapat diminimalkan
 
-**Ringkasan shape non-teks:** tidak ada shape non-teks
-
 ## Slide 50
 - Pooling Layer VS Conv Layer
-
-**Ringkasan shape non-teks:** other:1
 
 ## Slide 51
 - Pooling Layer VS Conv Layer
 
-**Ringkasan shape non-teks:** other:1
-
 ## Slide 52
 - JenisPooling Layer
 
-**Ringkasan shape non-teks:** other:1
-
 ## Slide 53
 - JenisPooling Layer
-
-**Ringkasan shape non-teks:** other:1
 
 ## Slide 54
 - Pertanyaan #5
@@ -372,12 +283,8 @@ _Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 - Apa perbedaan Max Pooling dengan Average Pooling pada CNN?
 - Max pooling menggunakan fungsi max untuk mencari nilai akhir hasil pooling sedangan average pooling menggunakan fungsi rata-rata untuk menentukan nilai akhir hasil pooling
 
-**Ringkasan shape non-teks:** tidak ada shape non-teks
-
 ## Slide 55
 - RecurrentNeural Network(RNN)
-
-**Ringkasan shape non-teks:** tidak ada shape non-teks
 
 ## Slide 56
 - Pertanyaan #6
@@ -385,22 +292,16 @@ _Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 - CNN biasa digunakan pada data citra (input 2D)
 - RNN  biasa digunakan pada data sekuensial (audio, video, sinyal, kalimat, dll) / data yang panjang nya berbeda-beda
 
-**Ringkasan shape non-teks:** tidak ada shape non-teks
-
 ## Slide 57
 - Pertanyaan #6
 - Apa perbedaan utama antara RNN dan CNN?
 - CNN tidak memperhatikan keterurutan data input
 - RNN memperhatikan keterurutan data input
 
-**Ringkasan shape non-teks:** tidak ada shape non-teks
-
 ## Slide 58
 - Pertanyaan #7
 - Jelaskan dari mana istilah “Recurrent” pada RNN muncul!
 - Karena menggunakan weight yang berulang setiap kali menghitung hidden state
-
-**Ringkasan shape non-teks:** tidak ada shape non-teks
 
 ## Slide 59
 _(tidak ada teks terdeteksi di slide ini)_
@@ -549,8 +450,6 @@ _Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 - 4.     RNN dengan arsitektur Many-to-Many dimana
 - Panjang Input ≠ Panjang Output
 
-**Ringkasan shape non-teks:** tidak ada shape non-teks
-
 ## Slide 74
 _(tidak ada teks terdeteksi di slide ini)_
 
@@ -633,8 +532,6 @@ _Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 - Pertanyaan #9
 - Jelaskan perbedaan antara RNN dan LSTM!
 - …
-
-**Ringkasan shape non-teks:** tidak ada shape non-teks
 
 ## Slide 83
 _(tidak ada teks terdeteksi di slide ini)_
@@ -752,8 +649,6 @@ _Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 - RNN tidak memiliki Cell State
 - LSTM memiliki Cell State
 
-**Ringkasan shape non-teks:** tidak ada shape non-teks
-
 ## Slide 95
 _(tidak ada teks terdeteksi di slide ini)_
 
@@ -849,8 +744,6 @@ _Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 - Jelaskan perbedaan antara LSTM dan GRU!
 - GRU memiliki jumlah parameter yang lebih sedikit dibandingkan LSTM
 - Lebih cocok untuk data yang kecil
-
-**Ringkasan shape non-teks:** tidak ada shape non-teks
 
 ## Slide 105
 _(tidak ada teks terdeteksi di slide ini)_
@@ -1006,8 +899,6 @@ _Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 - Terima Kasih
 - Ada Pertanyaan…???
 
-**Ringkasan shape non-teks:** tidak ada shape non-teks
-
 ## Slide 121
 - Jadwal UTS
 
@@ -1021,8 +912,6 @@ _Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 - Pakaian
 - Penampilan
 - Kecurangan
-
-**Ringkasan shape non-teks:** tidak ada shape non-teks
 
 ## Slide 123
 - Pertemuan Setelah UTS
