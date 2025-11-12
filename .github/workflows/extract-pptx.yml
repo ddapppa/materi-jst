@@ -8,6 +8,9 @@ on:
       - "scripts/extract_pptx_text.py"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   extract:
     runs-on: ubuntu-latest
@@ -21,10 +24,13 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install python-pptx
+        run: pip install python-pptx lxml Pillow
 
       - name: Extract PPTX text to Markdown
         run: python scripts/extract_pptx_text.py
+
+      - name: List docs folder (debug)
+        run: ls -l docs || echo "docs folder not found"
 
       - name: Commit Markdown output
         uses: stefanzweifel/git-auto-commit-action@v5
