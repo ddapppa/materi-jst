@@ -1,7 +1,6 @@
 # meet_07 - JST - INF - ALL.pptx
 
-**Total media diekstrak (semua slide)**: 97
-
+**Media diekstrak:** 0 file
 ## Slide 1
 - Jaringan Syaraf Tiruan ~ ~ Meet 07 ~ ~Program Studi InformatikaUniversitas Teknologi Yogyakarta
 - Dr. Donny Avianto, S.T., M.T.
@@ -41,35 +40,50 @@ _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 3
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 7
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 8
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 9
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 4
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 10
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 11
 - Pertanyaan #3
@@ -84,21 +98,30 @@ _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 13
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 14
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 15
 - Pertanyaan #4
@@ -126,7 +149,10 @@ _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 12
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 19
 - ConvolutionalNeural Network(CNN)
@@ -381,84 +407,120 @@ _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 4
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 60
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 61
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 62
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 63
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 64
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 4
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 65
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 66
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 67
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 68
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 1
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 69
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 70
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 1
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 71
 - Pada RNN,
@@ -466,10 +528,16 @@ _Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
 
 **Ringkasan shape non-teks:** picture:1
 
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
 ## Slide 72
 - Sehingg RNN dianggap memiliki memori masa lalu yang didapatkan melalui hidden state sebelumnya
 
 **Ringkasan shape non-teks:** picture:1
+
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 1
 
 ## Slide 73
 - Pertanyaan #8
@@ -488,54 +556,78 @@ _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 75
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 4
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 76
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 77
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 78
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 79
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 80
 - Mana yang merupakan kata biasa dan mana yang merupakan “nama”
 
 **Ringkasan shape non-teks:** picture:1
 
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
 ## Slide 81
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 82
 - Pertanyaan #9
@@ -549,77 +641,110 @@ _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 84
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 85
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 1
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 86
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 87
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 88
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 89
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 90
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 91
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 92
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 93
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 94
 - Pertanyaan #9
@@ -634,63 +759,90 @@ _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 96
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 97
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 98
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 99
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 100
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 101
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 4
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 102
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 103
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 104
 - Pertanyaan #10
@@ -705,105 +857,150 @@ _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 106
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 107
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 108
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 109
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 110
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 111
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 112
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 113
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 114
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 115
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 116
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 117
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 118
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 119
 _(tidak ada teks terdeteksi di slide ini)_
 
 **Ringkasan shape non-teks:** picture:1
 
-_Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
+
+_Rekomendasi: Tambahkan alt text atau Notes untuk memperjelas isi gambar._
 
 ## Slide 120
 - Terima Kasih
@@ -815,6 +1012,9 @@ _Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
 - Jadwal UTS
 
 **Ringkasan shape non-teks:** picture:1
+
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 3
 
 ## Slide 122
 - Datang maksimal 15 menit sebelum
@@ -828,3 +1028,6 @@ _Rekomendasi: Tambahkan alt text / catatan untuk gambar di slide ini._
 - Pertemuan Setelah UTS
 
 **Ringkasan shape non-teks:** picture:1
+
+**Alt text / nama gambar terdeteksi:**
+- Gambar 1: Picture 2
