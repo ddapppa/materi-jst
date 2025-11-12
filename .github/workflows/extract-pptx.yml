@@ -1,0 +1,33 @@
+name: Extract PPTX to Markdown
+
+on:
+  push:
+    paths:
+      - "**/*.pptx"
+      - ".github/workflows/extract-pptx.yml"
+      - "scripts/extract_pptx_text.py"
+  workflow_dispatch:
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install python-pptx
+
+      - name: Extract PPTX text to Markdown
+        run: python scripts/extract_pptx_text.py
+
+      - name: Commit Markdown output
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: extract PPTX text to docs/*.md"
+          file_pattern: docs/*.md
